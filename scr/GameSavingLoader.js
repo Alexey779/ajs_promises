@@ -1,5 +1,5 @@
 import json from './parser';
-// eslint-disable-next-line import/no-unresolved
+
 import read from './reader';
 
 export default class GameSavingLoader {

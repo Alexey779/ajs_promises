@@ -1,4 +1,4 @@
-import GameSavingLoader from '../gameLoader';
+import GameSavingLoader from '../GameSavingLoader';
 
 test('Проверка класса GameSavingLoader с методом load.', (done) => {
   const result = JSON.stringify({
